@@ -25,7 +25,7 @@ Daily practice is a proven way to enhance your problem-solving skills and grasp 
 
 ## Progress Tracker 📊
 
-Check out my [Progress Log](Progress%20Log\Yashwanth\ProgressLog.md) to see my daily progress and the problems I've been working on.
+Check out my [Progress Log](Progress%20Log/Yashwanth/ProgressLog.md) to see my daily progress and the problems I've been working on.
 
 
 ## Contributions and Discussions 💬
