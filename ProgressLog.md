@@ -7,11 +7,11 @@ Date:
 Topic(Should be the Folder Name):
 Problems solved:
 ```
-###Example
+### Example
 ----------------------------------------------
-Yashwanth B M
-02-11-2023
-Arrays
+Yashwanth B M   
+02-11-2023   
+Arrays   
 - [x] Solved "Two Sum" (Easy)
 - [x] Solved "Reverse Integer" (Easy)
 - [ ] Attempted "Longest Substring Without Repeating Characters" (Medium)
@@ -20,8 +20,8 @@ Arrays
 ## Start here⬇️
 
 -----------------------------
-Yashwanth B M 
-02-11-2023
+Yashwanth B M   
+02-11-2023   
 Created this repository
 
 --------------------------
