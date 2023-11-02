@@ -40,7 +40,7 @@ Contributors can contribute to this repo by following Striver's SDE sheet and pu
 
 ####Active contributors :
 - [Yashwanth B M](https://github.com/yashwanth-gh)
-- [-]()
+- [Achyuth](https://github.com/achyuth-k-t)
 
 ## Connect with Me 📫
 
