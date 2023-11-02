@@ -20,11 +20,12 @@ Daily practice is a proven way to enhance your problem-solving skills and grasp 
 
 - **Readme.md**: Information about the repository. This also includes solution code of the user for the respective problems.
 - **ProgressLog.md**: Daily tracking of Progress. Information about problems which were solved and problems which were attempted
+- **[Progress Log]**: Folder having ProgressLog .md of different Contributors.  
 - **[Named folders]**: Folders related to different topics which Includes Problems set that contributors solved.
 
 ## Progress Tracker 📊
 
-Check out my [Progress Log](ProgressLog.md) to see my daily progress and the problems I've been working on.
+Check out my [Progress Log](Progress%20Log\Yashwanth\ProgressLog.md) to see my daily progress and the problems I've been working on.
 
 
 ## Contributions and Discussions 💬
