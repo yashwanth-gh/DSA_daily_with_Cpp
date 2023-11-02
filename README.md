@@ -1,6 +1,12 @@
 # DSA Daily Practice with C++ 💡
 
 Welcome to the "DSA_daily_with_Cpp" repository, where I embark on a daily journey to enhance my data structures and algorithms skills in C++. Join me in this adventure as I solve questions from various platforms like LeetCode, GeeksForGeeks, and Coding Ninjas.
+I'll be solving problems from [Striver's SDE sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+
+## Why this Repository❓
+
+This repository is Created to **Log your Progress daily**, and to motivate the contributors to solve problems **regularly**.
+Also there is one more reason to get an idea on how to work with **Git/Github**
 
 ## About This Repository 📚
 
@@ -12,10 +18,9 @@ Daily practice is a proven way to enhance your problem-solving skills and grasp 
 
 ## Folder Structure 📁
 
-- **LeetCode**: Solutions to LeetCode problems
-- **GeeksForGeeks**: Solutions to GeeksForGeeks challenges
-- **CodingNinjas**: Solutions to Coding Ninjas problems
-- **Striver's SDE Sheet**: Progress and solutions following Striver's SDE sheet
+- **Readme.md**: Information about the repository. This also includes solution code of the user for the respective problems.
+- **ProgressLog.md**: Daily tracking of Progress. Information about problems which were solved and problems which were attempted
+- **[Named folders]**: Folders related to different topics which Includes Problems set that contributors solved.
 
 ## Progress Tracker 📊
 
@@ -27,6 +32,14 @@ Check out my [Progress Log](ProgressLog.md) to see my daily progress and the pro
 I welcome contributions, suggestions, and discussions. If you have any feedback, want to collaborate, or just chat about coding, feel free to reach out.
 
 Happy coding! 🚀
+
+## Contributors 💬
+
+Contributors can contribute to this repo by following Striver's SDE sheet and push their solution for respective problems in the proper folders according to the Topics.
+
+####Active contributors :
+- [Yashwanth B M](https://github.com/yashwanth-gh)
+- [-]()
 
 ## Connect with Me 📫
 
