@@ -5,4 +5,7 @@
 - [x] Print 1 to N using Recursion   
 - [x] Print N to 1 using Recursion   
 - [x] Sum of first N Natural Numbers  
-...to be continued 
+- [x] Factorials in first N Natural Numbers
+- [x] Reverse an Array
+- [x] Check if a String is Palindrome
+- [x]  Fibonacci series in first N Natural Numbers
