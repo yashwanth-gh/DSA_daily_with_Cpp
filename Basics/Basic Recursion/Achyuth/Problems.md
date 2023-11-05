@@ -9,3 +9,8 @@
 - [x] Reverse an Array
 - [x] Check if a String is Palindrome
 - [x]  Fibonacci series in first N Natural Numbers
+
+
+- [x] Hashing Theory Completer
+- [x] Count Frequency in a range
+- [x] Highest / Lowest Frequency Elements
