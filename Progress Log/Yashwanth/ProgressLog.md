@@ -33,4 +33,19 @@ Basics/Recursion
 - [x] Print 1 to N using Recursion   
 - [x] Print N to 1 using Recursion   
 - [x] Sum of first N Natural Numbers  
---------------------------    
+--------------------------      
+Yashwanth B M    
+04-11-2023  
+Basics/Recursion     
+- [x] Factorials in first N Natural Numbers
+- [x] Reverse an Array
+- [x] Check if a String is Palindrome
+- [x]  Fibonacci series in first N Natural Numbers  
+- [x] Completed Basic recursion
+--------------------------       
+Yashwanth B M    
+06-11-2023  
+Basics/Hashing    
+- [x] Count frequency of each element in the array     
+- [x] Find the highest/lowest frequency element    
+--------------------------       

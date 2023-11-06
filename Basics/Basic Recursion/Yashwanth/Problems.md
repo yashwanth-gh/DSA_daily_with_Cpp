@@ -10,3 +10,9 @@
 - [x] Check if a String is Palindrome
 - [x]  Fibonacci series in first N Natural Numbers  
 ~END OF TOPIC ~
+
+## 🚀Problems On Hashing (Basic)    
+
+- [x] Count frequency of each element in the array     
+- [x] Find the highest/lowest frequency element     
+
