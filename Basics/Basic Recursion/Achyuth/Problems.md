@@ -14,3 +14,5 @@
 - [x] Hashing Theory Completer
 - [x] Count Frequency in a range
 - [x] Highest / Lowest Frequency Elements
+
+complete basics of DSA is attended in Strivers Sheet
