@@ -3,13 +3,13 @@
 ## Sorting-1
 - [x] Bubble Sort
 - [x] Selection Sort
-- [x] Insertiion Sort
+- [x] Insertion Sort
 
 ## Sorting-2
    ## Using Recursion 
 - [x] Merge Sortv
 - [x] Recursive Bubble Sort
-- [x] Recursive Insertiion Sort
+- [x] Recursive Insertion Sort
 - [x] Quick Sort
 
 ## Sorting in Sheet is completely attended

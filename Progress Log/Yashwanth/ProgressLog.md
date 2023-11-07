@@ -48,4 +48,11 @@ Yashwanth B M
 Basics/Hashing    
 - [x] Count frequency of each element in the array     
 - [x] Find the highest/lowest frequency element    
---------------------------       
+--------------------------        
+Yashwanth B M     
+07-11-2023   
+Sorting-1      
+- [x] Bubble Sort   
+- [x] Selection Sort   
+- [x] Insertion Sort   
+--------------------------        
