@@ -51,7 +51,8 @@ int main() {
     cin>>a[i];
   }
   // selection_sort(a,n);
-  bubble_sort(a,n);
+  bubble_sort(a,n);  //bubble sort didn't acceprted by the compiler 
+                     //it showed(COMPILER ERROR)
   // insertion_sort(a,n);
   for(int i=0;i<n;i++){
     cout<<a[i]<<" ";
