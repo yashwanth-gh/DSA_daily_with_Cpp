@@ -7,10 +7,10 @@
 
 ## Sorting-2
    ## Using Recursion 
-- [ ] Merge Sort
-- [ ] Recursive Bubble Sort
-- [ ] Recursive Insertion Sort
-- [ ] Quick Sort
+- [x] Merge Sort
+- [x] Recursive Bubble Sort
+- [x] Recursive Insertion Sort
+- [x] Quick Sort
 
 ## Sorting in Sheet is completely attended
 
