@@ -56,3 +56,11 @@ Sorting-1
 - [x] Selection Sort   
 - [x] Insertion Sort   
 --------------------------        
+Yashwanth B M     
+08-11-2023   
+Sorting-2      
+- [x] Merge Sort   
+- [x] Recursive Bubble Sort   
+- [x] Recursive Insertion Sort   
+- [x] Quick Sort      
+--------------------------        
