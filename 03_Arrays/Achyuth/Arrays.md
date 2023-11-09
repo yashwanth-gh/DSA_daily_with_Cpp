@@ -11,3 +11,7 @@
 - [x] Linear Search
 - [x] Find the Union
 - [x] Find missing number in an array
+- [x]  Max Consecutive Ones
+- [x] Find The Single Element
+- [x] Longest Subarray With Sum K
+- [x] Longest Subarray With Sum K.
