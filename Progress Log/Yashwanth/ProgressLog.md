@@ -64,3 +64,14 @@ Sorting-2
 - [x] Recursive Insertion Sort   
 - [x] Quick Sort      
 --------------------------        
+Yashwanth B M     
+09-11-2023   
+Arrays-easy        
+- [x] Largest Element in an Array   
+- [x] Second Largest Element in an Array   
+- [x] Check if the array is sorted   
+- [x] Remove duplicates from Sorted array   
+- [x] Left Rotate an array by one place   
+- [x] Left rotate an array by D places   
+- [x] Move Zeros to end        
+--------------------------        
