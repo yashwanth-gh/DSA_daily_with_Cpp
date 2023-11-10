@@ -78,3 +78,21 @@ Arrays Easy Problems
 - [x] Find the Union
 - [x] Find missing number in an array
 -------------------------------------------
+Achyuth
+09-11-2023
+Array Easy Problems Completed
+- [x] Maximum Consecutive Ones
+- [x] Find The Single Element
+- [x] Longest Subarray With Sum K
+- [x] Longest Subarray With Sum K.
+-------------------------------------------
+Achyuth
+10-11-2023
+Arrays Medium Problems
+- [x] Two Sum Problem
+- [x] Sort an array of 0's 1's and 2's
+- [x] Majority Element (>n/2 times)
+- [x] Kadane's Algorithm, maximum subarray
+-----------------------------------------------
+
+
