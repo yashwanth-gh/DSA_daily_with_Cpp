@@ -13,3 +13,4 @@ long long maxSubarraySum(vector<int> arr, int n)
     }
     return max;
 }
+//there is  kadans algo to solve it but i used bruteforce approach to solve it
