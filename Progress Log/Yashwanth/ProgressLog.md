@@ -75,3 +75,11 @@ Arrays-easy
 - [x] Left rotate an array by D places   
 - [x] Move Zeros to end        
 --------------------------        
+Yashwanth B M     
+10-11-2023   
+Arrays-easy        
+- [x] Linear Search   
+- [x] Find the Union   
+- [x] Find missing number in an array   
+- [x]  Max Consecutive Ones             
+--------------------------        

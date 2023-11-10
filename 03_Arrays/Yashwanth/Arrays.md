@@ -8,6 +8,10 @@
 - [x] Left Rotate an array by one place
 - [x] Left rotate an array by D places
 - [x] Move Zeros to end
-- [ ] Linear Search
-- [ ] Find the Union
-- [ ] Find missing number in an array
+- [x] Linear Search
+- [x] Find the Union
+- [x] Find missing number in an array
+- [x]  Max Consecutive Ones
+- [ ] Find The Single Element
+- [ ] Longest Subarray With Sum K
+- [ ] Longest Subarray With Sum K.
