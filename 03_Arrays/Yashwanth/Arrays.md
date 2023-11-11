@@ -12,6 +12,6 @@
 - [x] Find the Union
 - [x] Find missing number in an array
 - [x]  Max Consecutive Ones
-- [ ] Find The Single Element
-- [ ] Longest Subarray With Sum K
+- [x] Find The Single Element
+- [x] Longest Subarray With Sum K
 - [ ] Longest Subarray With Sum K.
