@@ -94,5 +94,17 @@ Arrays Medium Problems
 - [x] Majority Element (>n/2 times)
 - [x] Kadane's Algorithm, maximum subarray
 -----------------------------------------------
+Achyuth
+11-11-2023
+Arrays Medium Problems
+- [x] Longest Subarray With Sum K
+- [x] Stock Buy and Sell
+-----------------------------------------------
+Achyuth
+12-11-2023
+Arrays Medium Problems
+- [x] Alternate Numbers
+- [x] Superior Elements
+-----------------------------------------------
 
 
