@@ -14,4 +14,4 @@
 - [x]  Max Consecutive Ones
 - [x] Find The Single Element
 - [x] Longest Subarray With Sum K
-- [ ] Longest Subarray With Sum K.
+- [x] Longest Subarray With Sum K.

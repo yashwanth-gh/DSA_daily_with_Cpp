@@ -83,3 +83,14 @@ Arrays-easy
 - [x] Find missing number in an array   
 - [x]  Max Consecutive Ones             
 --------------------------        
+Yashwanth B M     
+11-11-2023   
+Arrays-easy           
+- [x] Find The Single Element    
+- [x] Longest Subarray With Sum K             
+--------------------------        
+Yashwanth B M     
+13-11-2023   
+Arrays-easy           
+- [x] Longest Subarray With Sum K.               
+--------------------------        
