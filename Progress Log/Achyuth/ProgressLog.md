@@ -106,5 +106,11 @@ Arrays Medium Problems
 - [x] Alternate Numbers
 - [x] Superior Elements
 -----------------------------------------------
+Achyuth
+13-11-2023
+Arrays Medium Problems
+- [x] Longest Successive Elements
+- [x] Zero Matrix
+-----------------------------------------------
 
 
