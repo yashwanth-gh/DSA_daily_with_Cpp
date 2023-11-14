@@ -13,5 +13,9 @@
 - [x] Find missing number in an array
 - [x]  Max Consecutive Ones
 - [x] Find The Single Element
-- [x] Longest Subarray With Sum K
-- [x] Longest Subarray With Sum K.
+- [x] Longest Subarray With Sum K   
+- [x] Longest Subarray With Sum K.   
+
+## Arrays(Medium)   
+- [x] 2Sum Problem		
+- [x] Sort an array of 0's 1's and 2's    

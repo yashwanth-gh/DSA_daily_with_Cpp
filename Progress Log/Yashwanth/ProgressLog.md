@@ -94,3 +94,9 @@ Yashwanth B M
 Arrays-easy           
 - [x] Longest Subarray With Sum K.               
 --------------------------        
+Yashwanth B M     
+14-11-2023   
+Arrays-medium           
+- [x] 2Sum Problem		
+- [x] Sort an array of 0's 1's and 2's                 
+--------------------------        
