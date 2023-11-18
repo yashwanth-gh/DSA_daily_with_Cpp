@@ -128,5 +128,10 @@ Achyuth
 Arrays Easy Problems
 - [x] Learn't optimal solution for 5 Problems
 -----------------------------------------------
+Achyuth
+16-11-2023
+Arrays Easy Problems
+- [x] Learn't optimal solution for another 5 Problems
+-----------------------------------------------
 
 
