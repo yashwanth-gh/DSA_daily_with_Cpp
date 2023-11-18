@@ -100,3 +100,14 @@ Arrays-medium
 - [x] 2Sum Problem		
 - [x] Sort an array of 0's 1's and 2's                 
 --------------------------        
+Yashwanth B M     
+17-11-2023   
+Arrays-medium           
+- [x] Find the Majority Element that occurs more than N/2 times   
+--------------------------        
+Yashwanth B M     
+18-11-2023   
+Arrays-medium             
+- [x] Kadane’s Algorithm : Maximum Subarray Sum in an Array      
+- [x] Longest Subarray With Sum K(SLIDING WINDOW)    
+--------------------------          

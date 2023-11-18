@@ -18,4 +18,7 @@
 
 ## Arrays(Medium)   
 - [x] 2Sum Problem		
-- [x] Sort an array of 0's 1's and 2's    
+- [x] Sort an array of 0's 1's and 2's     
+- [x] Find the Majority Element that occurs more than N/2 times   
+- [x] Kadane’s Algorithm : Maximum Subarray Sum in an Array   
+- [x] Longest Subarray With Sum K(SLIDING WINDOW)
