@@ -15,3 +15,6 @@ int majorityElement(vector<int> v) {
 	}
 
 }
+
+// ******************* Optimized *************************** 
+// Algorithm MOORE'S VOTING :
