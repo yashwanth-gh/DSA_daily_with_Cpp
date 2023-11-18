@@ -112,5 +112,26 @@ Arrays Medium Problems
 - [x] Longest Successive Elements
 - [x] Zero Matrix
 -----------------------------------------------
+Achyuth
+14-11-2023
+Arrays Medium Problems
+- [x] Count subarrays with given sum
+-----------------------------------------------
+Achyuth
+15-11-2023
+Arrays Hard Problems
+- [x] Majority Element (n/3 times)
+- [x] Largest Subarray with 0 Sum
+-----------------------------------------------
+Achyuth
+15-11-2023
+Arrays Easy Problems
+- [x] Learn't optimal solution for 5 Problems
+-----------------------------------------------
+Achyuth
+16-11-2023
+Arrays Easy Problems
+- [x] Learn't optimal solution for another 5 Problems
+-----------------------------------------------
 
 

@@ -40,3 +40,33 @@ vector < int > sortedArray(vector < int > a, vector < int > b) {
     return v1;
     
 }
+//optimal one
+vector < int > sortedArray(vector < int > a, vector < int > b) {
+    // Write your code here
+    vector<int> v1;
+    int i=0,j=0;
+    while(i<a.size()&&j<b.size()){
+        if(a[i]<b[j] && (v1.size()==0 || v1.back()!=a[i])){
+            v1.push_back(a[i]);
+            i++;
+        }
+        else if (a[i]>b[j] && (v1.size()==0 || v1.back()!=b[j])){
+            v1.push_back(b[j]);
+            j++;
+        }
+    }
+    while(i<a.size()){
+         if(v1.back()!=a[i]){
+            v1.push_back(a[i]);
+            i++;
+        }
+    }
+     while(j<b.size()){
+        if (v1.back()!=b[j]){
+            v1.push_back(b[j]);
+            j++;
+        }
+    }
+    return v1;
+    
+}

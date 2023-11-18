@@ -9,3 +9,15 @@ int removeDuplicates(vector<int> &arr, int n) {
 	}
 	return count;
 }
+//optimal solution
+int removeDuplicates(vector<int> &arr, int n) {
+	// Write your code here.
+	int j=0
+	for(int i=1;i<n;i++){
+		if(a[i]!=a[j]){
+			a[j+1]=a[i];
+			j++;
+		}
+	}
+	return j+1;
+}
