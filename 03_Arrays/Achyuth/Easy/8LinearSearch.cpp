@@ -8,3 +8,4 @@ int linearSearch(int n, int num, vector<int> &arr)
     }
     return -1;
 }
+//this is the optimal one
