@@ -133,5 +133,10 @@ Achyuth
 Arrays Easy Problems
 - [x] Learn't optimal solution for another 5 Problems
 -----------------------------------------------
+Achyuth
+17-11-2023
+Arrays Easy Problems
+- [x] Learn't optimal solution for another 2 Easy Problems
+
 
 
