@@ -137,6 +137,12 @@ Achyuth
 17-11-2023
 Arrays Easy Problems
 - [x] Learn't optimal solution for another 2 Easy Problems
+-----------------------------------------------------------
+Achyuth
+18-11-2023
+Arrays Medium Problems
+- [x] Learn't optimal solution for 4 Medium Problems
+-----------------------------------------------------------
 
 
 
