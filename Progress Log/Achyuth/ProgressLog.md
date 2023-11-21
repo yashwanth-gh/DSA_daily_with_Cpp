@@ -148,6 +148,11 @@ Achyuth
 Arrays Medium Problems
 - [x] Learn't optimal solution for 3 Medium Problems
 -----------------------------------------------------------
+Achyuth
+20-11-2023
+Arrays Medium Problems
+- [x] Learn't optimal solution for 3 Medium Problems
+-----------------------------------------------------------
 
 
 
