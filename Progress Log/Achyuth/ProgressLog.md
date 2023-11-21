@@ -153,6 +153,13 @@ Achyuth
 Arrays Medium Problems
 - [x] Learn't optimal solution for 3 Medium Problems
 -----------------------------------------------------------
+Achyuth
+21-11-2023
+Arrays Medium Problems
+- [x] Next Greater Permutation
+- [x] Rotate Matrix by 90 degrees
+- [x] Print the matrix in spiral manner
+-----------------------------------------------------------
 
 
 
