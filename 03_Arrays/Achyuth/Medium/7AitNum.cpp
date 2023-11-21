@@ -21,3 +21,40 @@ vector<int> alternateNumbers(vector<int>&a) {
      }
     return a;
 }
+//Better Solution
+vector<int> alternateNumbers(vector<int>&a) {
+    // Write your code here.
+    vector<int> v1;
+     vector<int> v2;
+     for(int i=0;i<a.size();i++){
+           if(a[i]>=0){
+               v1.push_back(a[i]);
+           }
+           else{
+               v2.push_back(a[i]);
+           }
+     }
+    for(int i=0;i<a.size()/2;i++){
+         a[i*2]=v1[i];
+         a[i*2+1]=v2[i];
+    }
+    return a;
+}
+//Optimal Solution
+vector<int> alternateNumbers(vector<int>&a) {
+    // Write your code here.
+    vector<int> v1(a.size());
+    int k=0,j=1;
+     for(int i=0;i<a.size();i++){
+           if(a[i]>=0){
+               v1[k]=a[i];
+               k+=2;
+           }
+           else{
+               v1[j]=a[i];
+               j+=2;
+           }
+     }
+    
+    return v1;
+}

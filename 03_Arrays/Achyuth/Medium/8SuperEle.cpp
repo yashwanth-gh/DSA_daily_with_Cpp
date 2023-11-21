@@ -28,3 +28,19 @@ vector<int> superiorElements(vector<int>&a) {
 
     return v1;
 }
+//Optimal Solution
+vector<int> superiorElements(vector<int>&a) {
+    // Write your code here.
+   int n=a.size();
+   vector<int> v;
+   int maxx=a[n-1];
+   v.push_back(a[n-1]);
+   for(int i=n-2;i>=0;i--){
+       if(a[i]>maxx){
+           v.push_back(a[i]);
+           maxx=a[i];
+       }
+
+   }
+   return v;
+}

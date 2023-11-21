@@ -17,3 +17,19 @@ int findAllSubarraysWithGivenSum(vector < int > & arr, int k) {
     }
     return count;
 }
+//Optimal Solution
+int findAllSubarraysWithGivenSum(vector < int > & arr, int k) {
+    // Write Your Code Here
+     int n = arr.size();
+    int prefix=0;
+    int res = 0;
+     map<int,int> mp;
+     mp[prefix]++;
+    for(int i=0;i<n;i++){
+        prefix+=arr[i];
+        res+=mp[prefix-k];
+        mp[prefix]++;
+    }
+
+    return res;
+}

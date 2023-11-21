@@ -11,3 +11,15 @@ int bestTimeToBuyAndSellStock(vector<int>&prices) {
     }
     return count;
 }
+//OPTIMAL SOLUTION
+int bestTimeToBuyAndSellStock(vector<int>&prices) {
+    // Write your code here.
+    int minn=prices[0];
+    int profit=0;
+    for(int i=1;i<prices.size();i++){
+        int count=prices[i]-minn;
+         profit=max(profit,count);
+         minn=min(minn,prices[i]);      
+    }
+    return profit;
+}
