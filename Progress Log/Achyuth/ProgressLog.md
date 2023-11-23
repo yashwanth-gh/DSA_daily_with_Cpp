@@ -160,6 +160,18 @@ Arrays Medium Problems
 - [x] Rotate Matrix by 90 degrees
 - [x] Print the matrix in spiral manner
 -----------------------------------------------------------
+Achyuth
+22-11-2023
+Arrays Hard Problems
+- [x] Merge Two Sorted Arrays Without Extra Space
+- [x] Number of Inversions
+-----------------------------------------------------------
+Achyuth
+23-11-2023
+Arrays Hard Problems
+- [x] Team Contest
+- [x] Maximum Product Subarray
+-----------------------------------------------------------
 
 
 
