@@ -172,6 +172,13 @@ Arrays Hard Problems
 - [x] Team Contest
 - [x] Maximum Product Subarray
 -----------------------------------------------------------
+Achyuth
+24-11-2023
+Arrays Hard Problems
+- [x] Pascal's Triangle
+- [x] 3-Sum Problem
+- [x] 4-Sum Problem
+-----------------------------------------------------------
 
 
 
