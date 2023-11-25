@@ -179,6 +179,13 @@ Arrays Hard Problems
 - [x] 3-Sum Problem
 - [x] 4-Sum Problem
 -----------------------------------------------------------
+Achyuth
+25-11-2023
+Arrays Hard Problems
+- [x] Subarrays with XOR ‘K’
+- [x] Merge Overlapping Subintervals
+- [x] Find the repeating and missing numbers
+-----------------------------------------------------------
 
 
 
