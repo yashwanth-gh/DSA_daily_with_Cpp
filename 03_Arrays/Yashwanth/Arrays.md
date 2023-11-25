@@ -16,7 +16,7 @@
 - [x] Longest Subarray With Sum K   
 - [x] Longest Subarray With Sum K.   
 
-## Arrays(Medium)   
+## Arrays(Medium)  
 - [x] 2Sum Problem		
 - [x] Sort an array of 0's 1's and 2's     
 - [x] Find the Majority Element that occurs more than N/2 times   
