@@ -111,3 +111,8 @@ Arrays-medium
 - [x] Kadane’s Algorithm : Maximum Subarray Sum in an Array      
 - [x] Longest Subarray With Sum K(SLIDING WINDOW)    
 --------------------------          
+Yashwanth B M     
+18-11-2023   
+Arrays-medium             
+- [x] Stock Buy and Sell     
+--------------------------          
