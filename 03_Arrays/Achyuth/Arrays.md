@@ -32,3 +32,17 @@
 - [x] Print the matrix in spiral manner
 - [x] Count subarrays with given sum
 -------------------------------------------
+## Arrays(Hard)
+- [x] Pascal's Triangle
+- [x] Majority Element (n/3 times)
+- [x] 3-Sum Problem
+- [x] 4-Sum Problem
+- [x] Largest Subarray with 0 Sum
+- [x] Count number of subarrays with given sum K
+- [x] Merge Overlapping Subintervals
+- [x] Merge two sorted arrays without external Variable
+- [x] Find the repeating and missing number
+- [x]	Count Inversions
+- [x] Reverse Pairs
+- [x] Maximum Product Subarray
+-------------------------------------------

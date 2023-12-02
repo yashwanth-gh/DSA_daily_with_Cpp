@@ -1,5 +1,5 @@
 //Find the value of ith row and jth column
-//Formula id nCr n=row,r=column
+//Formula is nCr n=row,r=column  
 int factorial(int n,int m){
   int res=1;
   for(int i=0;i<m;i++){
@@ -20,7 +20,7 @@ void row(vector<int> &v,int n){
 //Pascal's Triangle
 void PascalTriangle(vector<vector<int>> v,int n){
   for(int i=0;i<n;i++){
-    for(int j=0;j<i;j++){
+    for(int j=0;j<=i;j++){
       v[i][j]=factorial(i,j);
     }
   }
