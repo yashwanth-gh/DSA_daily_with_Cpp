@@ -186,6 +186,34 @@ Arrays Hard Problems
 - [x] Merge Overlapping Subintervals
 - [x] Find the repeating and missing numbers
 -----------------------------------------------------------
+Achyuth
+26-11-2023
+Arrays Hard Problems Completed
+-----------------------------------------------------------
+Achyuth
+27-11-2023
+Arrays Once Again All Easy and Medium Problems Revised
+-----------------------------------------------------------
+Achyuth
+28-11-2023
+Arrays Once Again All Hard Problems Revised
+-----------------------------------------------------------
+Achyuth
+27-11-2023
+Binary Search on 1D Arrays
+- [x]	Binary Search to find X in sorted array
+- [x]	Implement Lower Bound
+- [x]	Implement Upper Bound
+- [x]	Search Insert Position
+-----------------------------------------------------------
+Achyuth
+28-11-2023
+Binary Search on 1D Arrays
+- [x]	Floor/Ceil in Sorted Array
+- [x]	First and Last Position of an Element In Sorted Array
+- [x]	Number of occurrence
+- [x]	Search in Rotated Sorted Array I
+-----------------------------------------------------------
 
 
 
