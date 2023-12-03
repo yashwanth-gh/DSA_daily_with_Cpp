@@ -214,6 +214,10 @@ Binary Search on 1D Arrays
 - [x]	Number of occurrence
 - [x]	Search in Rotated Sorted Array I
 -----------------------------------------------------------
-
-
-
+Achyuth
+29-11-2023
+Binary Search on 1D Arrays
+- [x]	Search in Rotated Sorted Array II
+- [x] Find Minimum in Rotated Sorted Array
+- [x] Find out how many times has an Array
+-----------------------------------------------------------
