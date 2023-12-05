@@ -10,3 +10,7 @@
 - [x]	Number of occurrence
 - [x]	Search in Rotated Sorted Array I
 - [x]	Search in Rotated Sorted Array II
+- [x] Find Minimum in Rotated Sorted Array
+- [x] Find out how many times has an Array
+- [x]	Single element in a Sorted Array
+- [x] Find peak element
