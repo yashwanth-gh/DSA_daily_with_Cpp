@@ -221,3 +221,9 @@ Binary Search on 1D Arrays
 - [x] Find Minimum in Rotated Sorted Array
 - [x] Find out how many times has an Array
 -----------------------------------------------------------
+Achyuth
+30-11-2023
+Binary Search on 1D Arrays
+- [x]	Single element in a Sorted Array
+- [x] Find peak element
+-----------------------------------------------------------
