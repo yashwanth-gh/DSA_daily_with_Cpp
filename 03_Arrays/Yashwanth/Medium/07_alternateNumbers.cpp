@@ -24,3 +24,24 @@ vector<int> alternateNumbers(vector<int>&a) {
 }
 
 //! TC: O(N*LogN)+O(N) ~ approx
+
+// --optimal approach
+
+#include<bits/stdc++.h>
+vector<int> alternateNumbers(vector<int>&a) {
+    // Write your code here.
+    vector<int>ans(a.size());
+int pos=0;
+int neg=1; 
+for(auto ele:a){
+    if(ele<0){
+        ans[neg] = ele;
+        neg+=2;
+    }else{
+        ans[pos] = ele;
+        pos+=2;
+    }
+}
+    return ans;
+ 
+}
