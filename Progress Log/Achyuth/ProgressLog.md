@@ -227,3 +227,9 @@ Binary Search on 1D Arrays
 - [x]	Single element in a Sorted Array
 - [x] Find peak element
 -----------------------------------------------------------
+Achyuth
+01-12-2023
+Binary Search on 1D Arrays
+- [x]	Square Root of a number
+- [x] Find Nth Root Of M
+-----------------------------------------------------------
