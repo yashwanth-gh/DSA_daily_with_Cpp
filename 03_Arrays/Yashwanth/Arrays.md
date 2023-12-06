@@ -22,4 +22,6 @@
 - [x] Find the Majority Element that occurs more than N/2 times   
 - [x] Kadane’s Algorithm : Maximum Subarray Sum in an Array   
 - [x] Longest Subarray With Sum K(SLIDING WINDOW)
-- [x] Stock Buy and Sell
+- [x] Stock Buy and Sell    
+- [x] Rearrange the array in alternating Order
+- [x] Next Permutation    
