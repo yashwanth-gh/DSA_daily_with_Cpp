@@ -245,3 +245,9 @@ Binary Search on Answers
 - [x]	Find the smallest Divisor
 - [x] Capacity to Ship Packages within D Days
 -----------------------------------------------------------
+Achyuth
+03-12-2023
+Binary Search on Answers
+- [x]	Find the smallest Divisor
+- [x] Capacity to Ship Packages within D Days
+-----------------------------------------------------------
