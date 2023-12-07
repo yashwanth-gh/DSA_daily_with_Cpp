@@ -229,7 +229,19 @@ Binary Search on 1D Arrays
 -----------------------------------------------------------
 Achyuth
 01-12-2023
-Binary Search on 1D Arrays
+Binary Search on Answers
 - [x]	Square Root of a number
 - [x] Find Nth Root Of M
+-----------------------------------------------------------
+Achyuth
+02-12-2023
+Binary Search on Answers
+- [x]	Koko Eating Bananas
+- [x] Minimum days to make M bouquets
+-----------------------------------------------------------
+Achyuth
+03-12-2023
+Binary Search on Answers
+- [x]	Find the smallest Divisor
+- [x] Capacity to Ship Packages within D Days
 -----------------------------------------------------------

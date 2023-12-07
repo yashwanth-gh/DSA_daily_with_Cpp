@@ -14,3 +14,9 @@
 - [x] Find out how many times has an Array
 - [x]	Single element in a Sorted Array
 - [x] Find peak element
+-------------------------------------------
+## Binary Search on Answers
+- [x]	Square Root of a number
+- [x] Find Nth Root Of M
+- [x]	Koko Eating Bananas
+- [x] Minimum days to make M bouquets
