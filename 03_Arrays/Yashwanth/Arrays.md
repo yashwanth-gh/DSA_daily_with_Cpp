@@ -25,3 +25,7 @@
 - [x] Stock Buy and Sell    
 - [x] Rearrange the array in alternating Order
 - [x] Next Permutation    
+- [x] Leaders in an Array problem
+- [x] Longest Consecutive Sequence in an array
+- [x] Set Matrix Zeros
+- [x] Rotate Matrix by 90 degrees
