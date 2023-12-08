@@ -246,8 +246,14 @@ Binary Search on Answers
 - [x] Capacity to Ship Packages within D Days
 -----------------------------------------------------------
 Achyuth
-03-12-2023
+04-12-2023
 Binary Search on Answers
 - [x]	Find the smallest Divisor
 - [x] Capacity to Ship Packages within D Days
+-----------------------------------------------------------
+Achyuth
+05-12-2023
+Binary Search on Answers
+- [x]	Allocate Books
+- [x] Split array - Largest Sum
 -----------------------------------------------------------
