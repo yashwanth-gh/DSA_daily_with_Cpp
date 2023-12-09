@@ -257,3 +257,9 @@ Binary Search on Answers
 - [x]	Allocate Books
 - [x] Split array - Largest Sum
 -----------------------------------------------------------
+Achyuth
+06-12-2023
+Binary Search on Answers
+- [x]	Painter's partition
+- [x] Minimize Max Distance to Gas Station
+-----------------------------------------------------------
