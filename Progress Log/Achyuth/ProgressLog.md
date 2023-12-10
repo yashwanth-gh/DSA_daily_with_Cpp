@@ -263,3 +263,8 @@ Binary Search on Answers
 - [x]	Painter's partition
 - [x] Minimize Max Distance to Gas Station
 -----------------------------------------------------------
+Achyuth
+06-12-2023
+Binary Search on Answers
+- [x]	Median of 2 sorted arrays
+-----------------------------------------------------------
