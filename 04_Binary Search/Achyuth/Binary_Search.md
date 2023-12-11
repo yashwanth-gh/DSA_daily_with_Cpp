@@ -20,3 +20,13 @@
 - [x] Find Nth Root Of M
 - [x]	Koko Eating Bananas
 - [x] Minimum days to make M bouquets
+- [x]	Find the smallest Divisor
+- [x] Capacity to Ship Packages within D Days
+- [x]	Find the smallest Divisor
+- [x] Capacity to Ship Packages within D Days
+- [x]	Allocate Books
+- [x] Split array - Largest Sum
+- [x]	Painter's partition
+- [x] Minimize Max Distance to Gas Station
+- [x]	Median of 2 sorted arrays
+- [x]	Kth element of 2 sorted arrays
