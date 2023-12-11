@@ -264,7 +264,12 @@ Binary Search on Answers
 - [x] Minimize Max Distance to Gas Station
 -----------------------------------------------------------
 Achyuth
-06-12-2023
+07-12-2023
 Binary Search on Answers
 - [x]	Median of 2 sorted arrays
+-----------------------------------------------------------
+Achyuth
+07-12-2023
+Binary Search on Answers
+- [x]	Kth element of 2 sorted arrays
 -----------------------------------------------------------
