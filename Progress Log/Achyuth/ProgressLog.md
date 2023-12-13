@@ -278,3 +278,9 @@ Achyuth
 Binary Search on Answers
 - [x]	Completed the Binary Search on Answers
 -----------------------------------------------------------
+Achyuth
+09-12-2023
+Binary Search on Answers
+- [x]	Completed the Binary Search on Answers
+-----------------------------------------------------------
+
