@@ -32,7 +32,7 @@ Check out my [Progress Log](Progress%20Log/Yashwanth/ProgressLog.md) to see my d
 
 I welcome contributions, suggestions, and discussions. If you have any feedback, want to collaborate, or just chat about coding, feel free to reach out.
 
-Happy coding! 🚀
+Happy coding! 
 
 ## Contributors 💬
 
@@ -41,6 +41,8 @@ Contributors can contribute to this repo by following Striver's SDE sheet and pu
 ####Active contributors :
 - [Yashwanth B M](https://github.com/yashwanth-gh)
 - [Achyuth](https://github.com/achyuth-k-t)
+- [Manoj C]
+- [Shreyas G S]
 
 ## Connect with Me 📫
 
