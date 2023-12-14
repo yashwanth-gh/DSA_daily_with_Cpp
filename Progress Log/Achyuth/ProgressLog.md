@@ -279,8 +279,13 @@ Binary Search on Answers
 - [x]	Completed the Binary Search on Answers
 -----------------------------------------------------------
 Achyuth
-09-12-2023
+10-12-2023
 Binary Search on Answers
-- [x]	Completed the Binary Search on Answers
+- [x]	Find the row with maximum number of 1's
+-----------------------------------------------------------
+Achyuth
+11-12-2023
+Binary Search on Answers
+- [x]	Search in a 2 D matrix
 -----------------------------------------------------------
 
