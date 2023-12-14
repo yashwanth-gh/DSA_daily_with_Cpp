@@ -1,4 +1,13 @@
-# DSA Daily Practice with C++ 💡
+
+### :warning: This Repository is Moved
+<pre>
+
+⚠️ This repository is no longer maintained here. 
+
+you can redirect here to the working Repo : 
+</pre>
+[Link to the New Repository](https://github.com/Team-Projects-2024/Strivers-SDE-sheet-Daily)
+# DSA Daily Practice with C++ 💡    
 
 Welcome to the "DSA_daily_with_Cpp" repository, where I embark on a daily journey to enhance my data structures and algorithms skills in C++. Join me in this adventure as I solve questions from various platforms like LeetCode, GeeksForGeeks, and Coding Ninjas.
 I'll be solving problems from [Striver's SDE sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
